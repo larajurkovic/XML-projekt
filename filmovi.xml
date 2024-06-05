@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmovi>
+    <film>
+        <naslov>Room</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Lenny Abrahamson</redatelj>
+        <imdbOcjena>8.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Everything Everywhere All at Once</naslov>
+        <datumIzlaska>2022</datumIzlaska>
+        <zanr>Znanstvena fantastika</zanr>
+        <redatelj>Daniel Kwan</redatelj>
+        <imdbOcjena>7.8</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Close</naslov>
+        <datumIzlaska>2022</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Lukas Dhont</redatelj>
+        <imdbOcjena>7.8</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Amy</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Dokumentarni</zanr>
+        <redatelj>Asif Kapadia</redatelj>
+        <imdbOcjena>7.8</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Oasis Supersonic</naslov>
+        <datumIzlaska>2016</datumIzlaska>
+        <zanr>Dokumentarni</zanr>
+        <redatelj>Mat Whitecross</redatelj>
+        <imdbOcjena>7.8</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Elephant Queen</naslov>
+        <datumIzlaska>2018</datumIzlaska>
+        <zanr>Dokumentarni</zanr>
+        <redatelj>Mark Deeble</redatelj>
+        <imdbOcjena>7.8</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Ex Machina</naslov>
+        <datumIzlaska>2014</datumIzlaska>
+        <zanr>Znanstvena fantastika</zanr>
+        <redatelj>Alex Garland</redatelj>
+        <imdbOcjena>7.7</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Whale</naslov>
+        <datumIzlaska>2022</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Darren Aronofsky</redatelj>
+        <imdbOcjena>7.7</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Marcel the Shell with Shoes On</naslov>
+        <datumIzlaska>2021</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Dean Fleischer Camp</redatelj>
+        <imdbOcjena>7.7</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Florida Project</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Sean Baker</redatelj>
+        <imdbOcjena>7.6</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Aftersun</naslov>
+        <datumIzlaska>2022</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Charlotte Wells</redatelj>
+        <imdbOcjena>7.6</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Val</naslov>
+        <datumIzlaska>2021</datumIzlaska>
+        <zanr>Dokumentarni</zanr>
+        <redatelj>Ting Poo</redatelj>
+        <imdbOcjena>7.6</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Boys State</naslov>
+        <datumIzlaska>2020</datumIzlaska>
+        <zanr>Dokumentarni</zanr>
+        <redatelj>Amanda McBaine</redatelj>
+        <imdbOcjena>7.6</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Waves</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Trey Edward Shults</redatelj>
+        <imdbOcjena>7.5</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Farewell</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Komedija</zanr>
+        <redatelj>Lulu Wang</redatelj>
+        <imdbOcjena>7.5</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Remember</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Atom Egoyan</redatelj>
+        <imdbOcjena>7.5</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Lighthouse</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Robert Eggers</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Lady Bird</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Komedija</zanr>
+        <redatelj>Greta Gerwig</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Moonlight</naslov>
+        <datumIzlaska>2016</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Barry Jenkins</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Uncut Gems</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Kriminalistički</zanr>
+        <redatelj>Benny Safdie</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Minari</naslov>
+        <datumIzlaska>2020</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Lee Isaac Chung</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Eighth Grade</naslov>
+        <datumIzlaska>2018</datumIzlaska>
+        <zanr>Komedija</zanr>
+        <redatelj>Bo Burnham</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Cmon Cmon</naslov>
+        <datumIzlaska>2021</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Mike Mills</redatelj>
+        <imdbOcjena></imdbOcjena>
+    </film>
+    <film>
+        <naslov>De Palma</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Dokumentarni</zanr>
+        <redatelj>Noah Baumbach</redatelj>
+        <imdbOcjena>7.4</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Hereditary</naslov>
+        <datumIzlaska>2018</datumIzlaska>
+        <zanr>Horor</zanr>
+        <redatelj>Ari Aster</redatelj>
+        <imdbOcjena>7.3</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Mid90s</naslov>
+        <datumIzlaska>2018</datumIzlaska>
+        <zanr>Komedija</zanr>
+        <redatelj>Jonah Hill</redatelj>
+        <imdbOcjena>7.3</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Disaster Artist</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Biografija</zanr>
+        <redatelj>James Franco</redatelj>
+        <imdbOcjena>7.3</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Good Time</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Kriminalistički</zanr>
+        <redatelj>Benny Safdie</redatelj>
+        <imdbOcjena>7.3</imdbOcjena>
+    </film>
+    <film>
+        <naslov>20th Century Women</naslov>
+        <datumIzlaska>2016</datumIzlaska>
+        <zanr>Komedija</zanr>
+        <redatelj>Mike Mills</redatelj>
+        <imdbOcjena>7.3</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Last Black Man in San Francisco</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Joe Talbot</redatelj>
+        <imdbOcjena>7.3</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The End of the Tour</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Biografija</zanr>
+        <redatelj>James Ponsoldt</redatelj>
+        <imdbOcjena>7.2</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Midsommar</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Horor</zanr>
+        <redatelj>Ari Aster</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Red Rocket</naslov>
+        <datumIzlaska>2021</datumIzlaska>
+        <zanr>Komedija</zanr>
+        <redatelj>Sean Baker</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Lobster</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Yorgos Lanthimos</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Locke</naslov>
+        <datumIzlaska>2013</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Steven Knight</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Tragedy of Macbeth</naslov>
+        <datumIzlaska>2021</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Joel Coen</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>First Reformed</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Paul Schrader</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>First Cow</naslov>
+        <datumIzlaska>2019</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Kelly Reinchardt</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Souvenir Part II</naslov>
+        <datumIzlaska>2021</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Joanna Hogg</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Lean on Pete</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Avantura</zanr>
+        <redatelj>Andrew Haigh</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Krisha</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Trey Edward Shults</redatelj>
+        <imdbOcjena>7.1</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Pearl</naslov>
+        <datumIzlaska>2022</datumIzlaska>
+        <zanr>Horor</zanr>
+        <redatelj>Ti West</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Killing of a Sacred Deer</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Yorgos Lanthimos</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Witch</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Horor</zanr>
+        <redatelj>Robert Eggers</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>American Honey</naslov>
+        <datumIzlaska>2016</datumIzlaska>
+        <zanr>Avantura</zanr>
+        <redatelj>Andrea Arnold</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Green Room</naslov>
+        <datumIzlaska>2015</datumIzlaska>
+        <zanr>Kriminalistički</zanr>
+        <redatelj>Jeremy Saulnier</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>A Most Violent Year</naslov>
+        <datumIzlaska>2014</datumIzlaska>
+        <zanr>Akcijski</zanr>
+        <redatelj>J.C. Chandor</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Spectacular Now</naslov>
+        <datumIzlaska>2013</datumIzlaska>
+        <zanr>Ljubavni</zanr>
+        <redatelj>James Ponsoldt</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>The Last Movie Star</naslov>
+        <datumIzlaska>2017</datumIzlaska>
+        <zanr>Drama</zanr>
+        <redatelj>Adam Rifkin</redatelj>
+        <imdbOcjena>7.0</imdbOcjena>
+    </film>
+    <film>
+        <naslov>Enemy</naslov>
+        <datumIzlaska>2013</datumIzlaska>
+        <zanr>Misterij</zanr>
+        <redatelj>Denis Villeneuve</redatelj>
+        <imdbOcjena>6.9</imdbOcjena>
+    </film>
+</filmovi>

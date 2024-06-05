@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Broadway';
+    src: url('fonts/Broadway\ Italic.ttf') format('truetype');
+}
+
+body {
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1pt;
+    color: white;
+    font-family: 'Broadway', sans-serif;
+    background-image: linear-gradient(rgb(23, 22, 22), grey);
+}
